@@ -1,4 +1,4 @@
-### Snake Game in Java
+# Snake Game in Java
 This repository contains the Java implementation of the classic Snake game. The game is designed following the Model-View-Controller (MVC) architectural pattern, ensuring a clear separation between the game's logic, user interface, and control mechanisms. This structure enhances maintainability and scalability of the code.
 
 ## Prerequisites
