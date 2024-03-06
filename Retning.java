@@ -1,0 +1,3 @@
+enum Retning { // SETTER RETTNING TIL SLANGEN,
+    NORD,SOR,VEST,OST;
+}
